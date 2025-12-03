@@ -1,5 +1,3 @@
-API em C# para gerenciamento de dados — utilizando Entity Framework, autenticação JWT e validação de dados.
-
 📄 Descrição
 
 O NLW-Connect-CSharp é uma API REST desenvolvida em C# com .NET, ideal para servir como backend em aplicações web ou mobile. Ele integra diversas bibliotecas e frameworks comumente utilizados no ecossistema .NET para gerenciar dados, autenticação, validação e persistência com SQLite.
